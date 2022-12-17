@@ -1,0 +1,37 @@
+body{
+    background-color: black; 
+    width:90vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.658));
+    color: aliceblue;        
+    font-size: 3vw;
+    text-align: center;                
+    padding: 3vw;
+    border-radius: 2vw;
+}
+h1{
+    color: rgb(235, 217, 217);
+} 
+#timer
+{
+    font-size: 6vw;
+}
+button
+{
+    padding: 1vh;
+    background-color: rgb(46, 141, 165);
+    color: white;
+    border-radius: 1vh;
+    cursor: pointer;
+    border: none;
+    font-size: 5vw;
+}
+button:hover
+{
+    background-color: rgb(31, 107, 126);
+}
