@@ -10,6 +10,10 @@ Digital Timer is a simple web-based application that functions as a digital time
 - **Stop Timer:** Pause the timer at its current count.
 - **Reset Timer:** Set the timer back to zero.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
 ## Technologies Used
 
 - **JavaScript:** The core programming language used to implement the timer functionality.
