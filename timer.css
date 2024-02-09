@@ -27,12 +27,12 @@ h1{
 button
 {
     padding: 1vh;
-    background-color:rgba(0, 0, 139,0.5)
+    background-color:rgba(0, 0, 139,0.5);
     color:white;
     border-radius: 1vh;
     cursor: pointer;
     border: none;
-    font-size: 5vw;
+    font-size: 30px;
 }
 button:hover
 {    
