@@ -1,5 +1,7 @@
 body{
     background-image: url("https://t3.ftcdn.net/jpg/06/40/52/14/360_F_640521426_vYQ4aYinXHHTUcoDpcyqfc2dgbSoJsnY.jpg"); 
+    background-size:cover;
+    background-color:black;/*fallback*/
     width:90vw;
     height: 90vh;
     display: flex;
