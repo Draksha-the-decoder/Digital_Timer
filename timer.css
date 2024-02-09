@@ -1,5 +1,5 @@
 body{
-    background: "https://t3.ftcdn.net/jpg/06/40/52/14/360_F_640521426_vYQ4aYinXHHTUcoDpcyqfc2dgbSoJsnY.jpg"; 
+    background-image: url("https://t3.ftcdn.net/jpg/06/40/52/14/360_F_640521426_vYQ4aYinXHHTUcoDpcyqfc2dgbSoJsnY.jpg"); 
     width:90vw;
     height: 90vh;
     display: flex;
@@ -7,7 +7,8 @@ body{
     align-items: center;
 }
 div{
-    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.658));
+/*     background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.3)); */
+    backdrop-filter: blur(10px);
     color: aliceblue;        
     font-size: 3vw;
     text-align: center;                
