@@ -27,7 +27,7 @@ h1{
 button
 {
     padding: 1vh;
-    background-color: rgb(46, 141, 165);
+    backdrop-filter: blur(15px);
     color: white;
     border-radius: 1vh;
     cursor: pointer;
